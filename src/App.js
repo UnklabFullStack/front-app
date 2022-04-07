@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn CI-CD with GitHub Actions
+          Learn GitHub Actions
         </a>
       </header>
     </div>
