@@ -8,5 +8,4 @@ test('renders learn react link', () => {
 });
 
 
-// solution:
-https://stackoverflow.com/questions/71685441/react-testing-library-gives-console-error-for-reactdom-render-in-react-18
+// solution: https://stackoverflow.com/questions/71685441/react-testing-library-gives-console-error-for-reactdom-render-in-react-18
