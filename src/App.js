@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          CI/CD with GitHub Actions: Full Stack Web Development
+          Continuous Integration/Continuous Deployment
         </p>
         <a
           className="App-link"
